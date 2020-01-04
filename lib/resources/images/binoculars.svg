@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="88" viewBox="0 0 89 88">
+  <g id="Group_350" data-name="Group 350" transform="translate(-70 -212)">
+    <g id="Group_348" data-name="Group 348">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(70 265)" fill="#fff" stroke="#000" stroke-width="3">
+        <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+        <circle cx="17.5" cy="17.5" r="16" fill="none"/>
+      </g>
+      <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(88 212)" stroke="#000" stroke-width="3">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="10.5" fill="none"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" y1="59" x2="18" transform="translate(71.5 220.5)" fill="none" stroke="#000" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" y1="58" x2="7" transform="translate(103.5 224.5)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="Path_12" data-name="Path 12" d="M507.1,270.287l12.819-40.711s5.852,12.228,18.833,3.956c.01.388-4.524,42.97-4.739,43.067,0,0-5.785-8.305-12.513-9.884S507.1,270.287,507.1,270.287Z" transform="translate(-430.606 -1.092)"/>
+    </g>
+    <g id="Group_349" data-name="Group 349" transform="translate(117 212)">
+      <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(7 53)" fill="#fff" stroke="#000" stroke-width="3">
+        <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+        <circle cx="17.5" cy="17.5" r="16" fill="none"/>
+      </g>
+      <g id="Ellipse_4-2" data-name="Ellipse 4" stroke="#000" stroke-width="3">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="10.5" fill="none"/>
+      </g>
+      <line id="Line_1-2" data-name="Line 1" x1="18" y1="59" transform="translate(22.5 8.5)" fill="none" stroke="#000" stroke-width="2"/>
+      <line id="Line_2-2" data-name="Line 2" x1="7" y1="58" transform="translate(1.5 12.5)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="Path_12-2" data-name="Path 12" d="M538.756,270.287l-12.819-40.711s-5.852,12.228-18.833,3.956c-.01.388,4.524,42.97,4.739,43.067,0,0,5.785-8.305,12.513-9.884S538.756,270.287,538.756,270.287Z" transform="translate(-503.254 -213.092)"/>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="17" height="23" transform="translate(106 245)"/>
+  </g>
+</svg>
